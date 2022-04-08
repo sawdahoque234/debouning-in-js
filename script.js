@@ -18,5 +18,5 @@ button.addEventListener(
   "click",
   debounce(function () {
     console.log("clicked");
-  }, 500)
+  }, 600)
 );
